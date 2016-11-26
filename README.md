@@ -1,21 +1,21 @@
 
 
-What is DkCoin?
+What is HDCoin?
 ----------------
 
-DkCoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. DkCoin uses peer-to-peer technology to operate
+HDCoin is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. HDCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. DkCoin Core is the name of open source
+out collectively by the network. HDCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the DkCoin Core software, see http://www.DkCoin.us.
+the HDCoin Core software, see http://www.hao123.com
 
 License
 -------
 
-DkCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+HDCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -38,5 +38,5 @@ controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/dkcoinus/dkcoin_src) are created
-regularly to indicate new official, stable release versions of DkCoin.
+regularly to indicate new official, stable release versions of HDCoin.
 
